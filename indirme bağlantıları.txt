@@ -1,0 +1,8 @@
+
+Desteklenen GPU'ların Listesi: https://developer.nvidia.com/cuda-gpus 
+
+GPU Driver: https://www.nvidia.com/download/index.aspx
+
+CUDA Toolkit Arşivi: https://developer.nvidia.com/cuda-toolkit-archive
+
+NVIDIA cuDNN: https://developer.nvidia.com/rdp/cudnn-archive
