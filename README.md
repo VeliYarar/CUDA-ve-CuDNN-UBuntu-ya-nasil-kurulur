@@ -18,5 +18,5 @@ Sürücüyü yükledikten sonra, kurulumu doğrulamak için terminalde şu komut
 nvidia-smi
 
 ```
-
+![MasterHead]()
 Not: Lütfen CUDA sürümünü sağ üstte dikkate alın. Benim durumumda 11.4. Doğru CUDA sürümünü takip etmek önemlidir.
